@@ -12,6 +12,7 @@ using System.Windows.Forms;
 
 namespace AHUANG
 {
+    int cc  = 0;
     public partial class Form2 : Form
     {
         public Form1 f1;
