@@ -12,6 +12,8 @@ using System.Windows.Forms;
 
 namespace AHUANG
 {
+    int cc  = 0;
+    int bb = 1;
     public partial class Form2 : Form
     {
         public Form1 f1;
